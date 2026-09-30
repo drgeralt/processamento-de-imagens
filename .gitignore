@@ -1,0 +1,32 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+*/venv/
+*/.venv/
+
+# Bytecode e Cache Python
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# Ferramentas de Tipagem e Testes
+.mypy_cache/
+*/.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Ambientes de Desenvolvimento e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
